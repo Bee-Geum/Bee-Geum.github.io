@@ -76,6 +76,9 @@ My current research interests include
 </div>
 </div>
 
+# 🔑 Patents
+- **Method and device for verifying adult using image analytics**
+
 # 📖 Educations
 - *2021.03 - current*, **B.E.** in Computer Science Engineering. Pusan National University.
 
