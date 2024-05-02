@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Thanks for visiting my website!
+
 I am a senior student majoring in computer science and engineering at Pusan National University.
+
 Since my sophomore year, I have been an undergraduate researcher under the guidance of [Prof.Hwan-Gue Cho](https://cse.pusan.ac.kr/cse/14640/subview.do?enc=Zm5jdDF8QEB8JTJGcG51UHJvZmwlMkZjc2UlMkY0NTUlMkY0MjA4JTJGYXJ0Y2xWaWV3LmRvJTNGZmluZFR5cGUlM0QlMjZmaW5kV29yZCUzRCUyNnBhZ2UlM0QxJTI2).
 
 
