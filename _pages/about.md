@@ -43,6 +43,31 @@ My current research interests include
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KTSDE</div><img src='images/ktsde.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **Characteristic Analysis on Urban Road Networks Using Various Path Models**
+  - **Bee Geum**, Hwan-Gue Cho
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KSC 2023</div><img src='images/ksc2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **Road Network Characteristic Analysis Using the Balanced Path Model**
+  - **Bee Geum**, Hwan-Gue Cho
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KCC 2023</div><img src='images/kcc2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **Time-Distance Balanced Path Finding Algorithms in Urban Road Networks**
+  - **Bee Geum**, Hwan-Gue Cho
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICESI 2023</div><img src='images/icesi2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
