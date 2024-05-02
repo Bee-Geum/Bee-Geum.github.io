@@ -33,7 +33,7 @@ My current research interests include
 - <span style="background-color:#C0FFFF"> **Computer Vision** </span>
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉 Submitted a paper at <span style="background-color:#E6E6FA"> **KIPS Journal** </span>.
+- *2024.04*: &nbsp;🎉 Submitted a paper at <span style="background-color:#E6E6FA"> **KIPS Journal** </span>.
 - *2024.02*: &nbsp;🎉 A **Patent** has been filed using CNN(Convolutional Neural Networks)
 - *2024.01*: &nbsp;🎉 I started my new research journey at **SNU VIBA LAB** (Under the supervision of Prof.Hyun-woo Park)
 - *2023.10*: &nbsp;🎉 One paper was accepted at <span style="background-color:#E6E6FA"> **KSC'23** </span>.
@@ -56,17 +56,14 @@ My current research interests include
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03 - current*, **B.E.** in Computer Science Engineering. Pusan National University.
+
+# 💻 Research Experiences
+- *2022.06 - current*, <span style="background-color:#fff5b1"> **Undergraduate Researcher** </span>, [ALDE lab](http://pearl.cs.pusan.ac.kr/~wiki/doku.php), South Korea.
+- *2024.01 - 2024.02*, <span style="background-color:#fff5b1"> **Research Intern** </span>, [SNU GSDS VIBA Lab](https://gsds.snu.ac.kr/), South Korea.
+  - Under the supervision of Prof.Hyun-woo Park
 
 # 🏫 Teaching Assistant
 - *2023.09 - 2023.12*, C Language Programming, Pusan National University
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
