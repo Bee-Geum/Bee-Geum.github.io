@@ -33,8 +33,8 @@ My current research interests include
 <span style="background-color:#C0FFFF"> - Computer Vision </span>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.02*: &nbsp;🎉 One paper was accepted at <span style="background-color:#E6E6FA"> **ICESI'23** </span>. 
 
 # 📝 Publications 
 
