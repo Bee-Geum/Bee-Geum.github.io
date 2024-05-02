@@ -27,10 +27,10 @@ under the guidance of [Prof.Hwan-Gue Cho](https://cse.pusan.ac.kr/cse/14640/subv
 Additionally, during the winter break of my junior year, I received guidance from [Prof.Hyun-woo Park](https://gsds.snu.ac.kr/people-post/hyunwoo-park/) at Seoul National University.
 
 My current research interests include
-<span style="background-color:#C0FFFF"> - Graph Model </span>
-<span style="background-color:#C0FFFF"> - GNN </span>
-<span style="background-color:#C0FFFF"> - Visualization </span>
-<span style="background-color:#C0FFFF"> - Computer Vision </span>
+- <span style="background-color:#C0FFFF"> **Graph Model** </span>
+- <span style="background-color:#C0FFFF"> **GNN** </span>
+- <span style="background-color:#C0FFFF"> **Visualization** </span>
+- <span style="background-color:#C0FFFF"> **Computer Vision** </span>
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
