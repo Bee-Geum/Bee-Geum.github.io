@@ -41,7 +41,7 @@ My current research interests include
 - *2023.02*: &nbsp;🎉 One paper was accepted at <span style="background-color:#E6E6FA"> **ICESI'23** </span>
 - *2022.06*: &nbsp;🎉 Started undergraduate researcher at **PNU ALDE LAB** (Under the supervision of Prof.Hwan-Gue Cho)
 
-# 📝 Publications 
+# 📝 Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KTSDE</div><img src='images/ktsde.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
