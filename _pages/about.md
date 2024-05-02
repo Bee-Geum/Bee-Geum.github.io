@@ -43,12 +43,11 @@ My current research interests include
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICESI 2023</div><img src='images/icesi.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICESI 2023</div><img src='images/icesi2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Geometric Characteristics on Road Network for Vehicle Routing With 10 Korean Cities**
   - Da-Young Lee, **Bee Geum**, Hwan-Gue Cho
-  - 
 </div>
 </div>
 
