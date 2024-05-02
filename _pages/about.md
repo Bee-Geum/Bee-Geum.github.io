@@ -87,6 +87,8 @@ My current research interests include
   - Under the supervision of Prof.Hwan-Gue Cho
 - *2024.01 - 2024.02*, <span style="background-color:#fff5b1"> **Research Intern** </span>, [SNU GSDS VIBA Lab](https://gsds.snu.ac.kr/), South Korea.
   - Under the supervision of Prof.Hyun-woo Park
+  - Participate in Ministry of Oceans and Fisheries project
+  - Parcitipate in Korea Research Institute of Ships & Ocean engineering project
 
 # 🏫 Teaching Assistant
 - *2023.09 - 2023.12*, C Language Programming, Pusan National University
