@@ -61,7 +61,8 @@ My current research interests include
 - *2021.03 - current*, **B.E.** in Computer Science Engineering. Pusan National University.
 
 # 💻 Research Experiences
-- *2022.06 - current*, <span style="background-color:#fff5b1"> **Undergraduate Researcher** </span>, [ALDE lab](http://pearl.cs.pusan.ac.kr/~wiki/doku.php), South Korea.
+- *2022.06 - current*, <span style="background-color:#fff5b1"> **Undergraduate Researcher** </span>, [ALDE Lab](http://pearl.cs.pusan.ac.kr/~wiki/doku.php), South Korea.
+  - Under the supervision of Prof.Hwan-Gue Cho
 - *2024.01 - 2024.02*, <span style="background-color:#fff5b1"> **Research Intern** </span>, [SNU GSDS VIBA Lab](https://gsds.snu.ac.kr/), South Korea.
   - Under the supervision of Prof.Hyun-woo Park
 
