@@ -21,10 +21,16 @@ Thanks for visiting my website!
 
 I am a senior student majoring in computer science and engineering at Pusan National University.
 
-Since my sophomore year, I have been an undergraduate researcher under the guidance of [Prof.Hwan-Gue Cho](https://cse.pusan.ac.kr/cse/14640/subview.do?enc=Zm5jdDF8QEB8JTJGcG51UHJvZmwlMkZjc2UlMkY0NTUlMkY0MjA4JTJGYXJ0Y2xWaWV3LmRvJTNGZmluZFR5cGUlM0QlMjZmaW5kV29yZCUzRCUyNnBhZ2UlM0QxJTI2).
+Since my sophomore year, I have been an undergraduate researcher in the [ALDE lab](http://pearl.cs.pusan.ac.kr/~wiki/doku.php),
+under the guidance of [Prof.Hwan-Gue Cho](https://cse.pusan.ac.kr/cse/14640/subview.do?enc=Zm5jdDF8QEB8JTJGcG51UHJvZmwlMkZjc2UlMkY0NTUlMkY0MjA4JTJGYXJ0Y2xWaWV3LmRvJTNGZmluZFR5cGUlM0QlMjZmaW5kV29yZCUzRCUyNnBhZ2UlM0QxJTI2).
 
+Additionally, during the winter break of my junior year, I received guidance from [Prof.Hyun-woo Park](https://gsds.snu.ac.kr/people-post/hyunwoo-park/) at Seoul National University.
 
-
+My current research interests include
+- Graph Model
+- GNN
+- Visualization
+- Computer Vision
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
