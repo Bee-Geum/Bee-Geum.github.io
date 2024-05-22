@@ -33,7 +33,7 @@ My current research interests include
 - <span style="background-color:#C0FFFF"> **Computer Vision** </span>
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉 Submitted a paper at <span style="background-color:#E6E6FA"> **KIPS Journal** </span>
+- *2024.04*: &nbsp;🎉 One paper was accepted at <span style="background-color:#E6E6FA"> **KTSDE Journal(KCI)** </span>
 - *2024.02*: &nbsp;🎉 A **Patent** has been filed using CNN(Convolutional Neural Networks)
 - *2024.01*: &nbsp;🎉 I started my new research journey at **SNU VIBA LAB** (Under the supervision of Prof.Hyun-woo Park)
 - *2023.10*: &nbsp;🎉 One paper was accepted at <span style="background-color:#E6E6FA"> **KSC'23** </span>
