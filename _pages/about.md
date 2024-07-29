@@ -29,8 +29,9 @@ Additionally, during the winter break of my junior year, I received guidance fro
 My current research interests include
 - <span style="background-color:#C0FFFF"> **Graph Model** </span>
 - <span style="background-color:#C0FFFF"> **GNN** </span>
-- <span style="background-color:#C0FFFF"> **Visualization** </span>
-- <span style="background-color:#C0FFFF"> **Computer Vision** </span>
+- <span style="background-color:#C0FFFF"> **Machine Learning/Deep Learning** </span>
+- <span style="background-color:#C0FFFF"> **Visualizaion** </span>
+- <span style="background-color:#C0FFFF"> **Statistical Machine Learning** </span>
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉 A paper accepted at <span style="background-color:#E6E6FA"> **KTSDE Journal(KCI)** </span>
