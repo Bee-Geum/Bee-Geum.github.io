@@ -79,7 +79,8 @@ My current research interests include
 - **Method and device for verifying adult using image analytics**
 
 # 📖 Educations
-- *2021.03 - 2025.02*, Computer Science Engineering. Pusan National University.
+- *2021.03 - 2025.02*, Computer Science and Engineering. Pusan National University.
+- *2025.03 - current*, Artificial Intelligence Master's Course. Pusan National University.
 
 # 💻 Experiences
 - *2022.06 - 2025.02*, <span style="background-color:#fff5b1"> **Undergraduate Researcher** </span>, [ALDE Lab](http://pearl.cs.pusan.ac.kr/~wiki/doku.php), South Korea.
