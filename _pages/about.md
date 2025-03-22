@@ -94,5 +94,5 @@ My current research interests include
   - Attended summer school focusing on combinatorics and algorithms
 
 # 🏫 Teaching Assistant
-- *2023.09 - 2023.12*, C Language Programming, Pusan National University
 - *2025.03 - 2025.06*, Computer Algorithms, Pusan National University
+- *2023.09 - 2023.12*, C Language Programming, Pusan National University
