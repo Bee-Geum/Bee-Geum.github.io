@@ -32,7 +32,7 @@ My current research interests include
 - <span style="background-color:#C0FFFF"> **Machine Learning/Deep Learning** </span>
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉 Graduated with a <span style="background-color:#E6E6FA"> bachelor's degree </span>
+- *2025.02*: &nbsp;🎉 Graduated with a <span style="background-color:#E6E6FA"> **Bachelor's degree** </span>
 - *2024.05*: &nbsp;🎉 A paper accepted at <span style="background-color:#E6E6FA"> **KTSDE Journal(KCI)** </span>
 - *2024.02*: &nbsp;🎉 A **Patent** has been filed using CNN(Convolutional Neural Networks)
 - *2024.01*: &nbsp;🎉 Started my new research journey at **SNU VIBA LAB** (Under the supervision of Prof.Hyun-woo Park)
