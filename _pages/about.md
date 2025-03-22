@@ -19,19 +19,17 @@ redirect_from:
 
 Thanks for visiting my website!
 
-I am a senior student majoring in computer science and engineering at Pusan National University.
+I majored in computer science and engineering during my undergraduate studies at Pusan National University and am currently a master's student at the Graduate School of Artificial Intelligence at Pusan National University.
 
-Since my sophomore year, I have been an undergraduate researcher in the [ALDE lab](http://pearl.cs.pusan.ac.kr/~wiki/doku.php),
+Since my sophomore to senior year, I have been an undergraduate researcher in the [ALDE lab](http://pearl.cs.pusan.ac.kr/~wiki/doku.php),
 under the guidance of [Prof.Hwan-Gue Cho](https://cse.pusan.ac.kr/cse/14640/subview.do?enc=Zm5jdDF8QEB8JTJGcG51UHJvZmwlMkZjc2UlMkY0NTUlMkY0MjA4JTJGYXJ0Y2xWaWV3LmRvJTNGZmluZFR5cGUlM0QlMjZmaW5kV29yZCUzRCUyNnBhZ2UlM0QxJTI2).
 
 Additionally, during the winter break of my junior year, I received guidance from [Prof.Hyun-woo Park](https://gsds.snu.ac.kr/people-post/hyunwoo-park/) at Seoul National University.
 
 My current research interests include
-- <span style="background-color:#C0FFFF"> **Graph Model** </span>
-- <span style="background-color:#C0FFFF"> **GNN** </span>
+- <span style="background-color:#C0FFFF"> **Graph Theory** </span>
+- <span style="background-color:#C0FFFF"> **Algorithms** </span>
 - <span style="background-color:#C0FFFF"> **Machine Learning/Deep Learning** </span>
-- <span style="background-color:#C0FFFF"> **Visualizaion** </span>
-- <span style="background-color:#C0FFFF"> **Statistical Machine Learning** </span>
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉 A paper accepted at <span style="background-color:#E6E6FA"> **KTSDE Journal(KCI)** </span>
@@ -81,10 +79,10 @@ My current research interests include
 - **Method and device for verifying adult using image analytics**
 
 # 📖 Educations
-- *2021.03 - current*, Computer Science Engineering. Pusan National University.
+- *2021.03 - 2025.02*, Computer Science Engineering. Pusan National University.
 
 # 💻 Experiences
-- *2022.06 - current*, <span style="background-color:#fff5b1"> **Undergraduate Researcher** </span>, [ALDE Lab](http://pearl.cs.pusan.ac.kr/~wiki/doku.php), South Korea.
+- *2022.06 - 2025.02*, <span style="background-color:#fff5b1"> **Undergraduate Researcher** </span>, [ALDE Lab](http://pearl.cs.pusan.ac.kr/~wiki/doku.php), South Korea.
   - Under the supervision of Prof.Hwan-Gue Cho
 - *2024.01 - 2024.02*, <span style="background-color:#fff5b1"> **Research Intern** </span>, [SNU GSDS VIBA Lab](https://gsds.snu.ac.kr/), South Korea.
   - Under the supervision of Prof.Hyun-woo Park
@@ -95,3 +93,4 @@ My current research interests include
 
 # 🏫 Teaching Assistant
 - *2023.09 - 2023.12*, C Language Programming, Pusan National University
+- *2025.03 - 2025.06*, Computer Algorithms, Pusan National University
